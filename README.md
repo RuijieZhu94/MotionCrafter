@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <a href='https://arxiv.org/abs/2602.08961'><img src='https://img.shields.io/badge/arXiv-xxxxx-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='https://arxiv.org/abs/2602.08961'><img src='https://img.shields.io/badge/arXiv-2602.08961-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href='https://ruijiezhu94.github.io/MotionCrafter_Page/'><img src='https://img.shields.io/badge/Project-Page-orange'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href='https://huggingface.co/TencentARC/MotionCrafter'><img src='https://img.shields.io/badge/HuggingFace-Weights-yellow'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href='https://github.com/TencentARC/MotionCrafter/blob/main/LICENSE.txt'><img src='https://img.shields.io/badge/License-Tencent-green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
